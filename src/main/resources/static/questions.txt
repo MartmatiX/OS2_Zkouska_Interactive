@@ -1,0 +1,71 @@
+1. Popište obecné schéma startu systému s důrazem na : a) Hardwarovou kontrolu systému
+2. Popište obecné schéma startu systému s důrazem na : b) Načtení a start zavaděče
+3. Popište obecné schéma startu systému s důrazem na : c) Načtení a rozbalení jádra
+4. Popište obecné schéma startu systému s důrazem na : d) Inicializace jádra
+5. Popište obecné schéma Spouštění procesů : a) není podotázka
+6. Start systému Ubuntu 12.04 ver. Ubuntu 16.04 : a) není podotázka
+7. Démon Systemd : a) není podotázka
+8. Démon Crond : a) není podotázka
+9. Pojednejte o problematice Systémových volání : a) Základní princip
+9. Pojednejte o problematice Systémových volání : b) Jak to funguje - například ioctl() a Schéma systémového volání
+10. Pojednejte o problematice Signálů : a) Reakce na signály
+10. Pojednejte o problematice Signálů : b) Blokace signálu
+11. Pojednejte o problematice Signálů : a) Druhy signálů
+11. Pojednejte o problematice Signálů : b) Posílání a doručování signálů
+12. Pojednejte o Souborových operací : a) Deskriptor souborů
+12. Pojednejte o Souborových operací : b) Otevírání a zavírání souborů
+13. Pojednejte o Souborových systémech : a) Virtuální souborový systém
+14. Komunikace pomocí pipe : a) Anonymní roury
+14. Komunikace pomocí pipe : b)Pojmenované roury
+14. Komunikace pomocí pipe : c)Jednoduchá roura
+14. Komunikace pomocí pipe : d)Roura s oběma konci
+15. Komunikace pomocí zpráv : a) rozdíly mezi pipe a zprávami
+15. Komunikace pomocí zpráv : b) POSIX PMQ
+16. Komunikace pomocí Socketů : a) Druhy přenosu socketové komunikace
+16. Komunikace pomocí Socketů : b) Spojová komunikace
+16. Komunikace pomocí Socketů : c) Datagramová komunikce
+16. Komunikace pomocí Socketů : d) Porovnání komunikace pomocí rour a socketů
+17. Procesy a vlákna : a) Plánování úloh
+17. Procesy a vlákna : b) Plánovače
+18. Procesy a vlákna : a) Preemtivita jádra
+18. Procesy a vlákna : b) Proces a jeho vlastnosti
+18. Procesy a vlákna : c) Problematika paměťového prostoru
+18. Procesy a vlákna : d) Souborové deskriptory
+18. Procesy a vlákna : e) Oprávnění procesů
+18. Procesy a vlákna : f) Životní cyklus procesu++
+19. Problematika Spouštění programů : a) Scénář jak jádro spouští program
+19. Problematika Spouštění programů : b) Handler
+19. Problematika Spouštění programů : c) Spouštěcí domény
+20. Démon Udev : a) Princip systému udev
+20. Démon Udev : b) výhody udev
+20. Démon Udev : c) udev a sysfs
+20. Démon Udev : d) rozdíl oproti HAL
+20. Démon Udev : e) technologie D-Bus
+21. Architektura jádra : a) Monolitické jádro a mikro jádro
+21. Architektura jádra : b) základní subsystémy
+21. Architektura jádra : c) modularita jádra
+22. Architektura jádra : a) Zavádění a uvolnění modulů
+22. Architektura jádra : b) init_module()
+22. Architektura jádra : c) delete_module()
+23. Správa paměti : a) hlavní úkoly
+23. Správa paměti : b) Stránkování paměti
+23. Správa paměti : c) Zóny paměti
+23. Správa paměti : d) Alokace stránek
+24. Správa paměti : a) Alokace stránek
+24. Správa paměti : b) Algoritmus buddy
+24. Správa paměti : c) Rezervované stránky
+24. Správa paměti : d) Cache pro stránky
+24. Správa paměti : e) Proces alokace
+25. Správa paměti : a) Proces alokace
+25. Správa paměti : b) Sloučené stránky
+25. Správa paměti : c) Uvolnění stránek
+25. Správa paměti : d) Alokace nesouvislých úseků
+25. Správa paměti : e) Uvolnění alokované paměti
+26. Správa paměti : a) Řešení nedostatku paměti
+26. Správa paměti : b) Reverzní mapování
+26. Správa paměti : c) Základní mechanismus uvolňování
+27. Správa procesů a vláken : a) Vlastnosti a stav úlohy
+27. Správa procesů a vláken : b) Příznaky úlohy
+27. Správa procesů a vláken : c) Vztahy mezi úlohami
+28. Správa procesů a vláken : a) Kopírování úlohy
+28. Správa procesů a vláken : b) Ukončení běhu úlohy 
